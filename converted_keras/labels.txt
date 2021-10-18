@@ -1,0 +1,4 @@
+0 Saludo
+1 Asombro
+2 Alegria
+3 Enfado
